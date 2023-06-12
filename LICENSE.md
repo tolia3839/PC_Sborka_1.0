@@ -1,0 +1,1 @@
+Although this work is public, it is forbidden to make changes or copy the code. This can lead to copyright issues that are undesirable for either party. Also, since this is a raw version of the application, you can worry and see that various languages and possibly artificial intelligence will be added in the future.
